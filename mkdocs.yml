@@ -1,0 +1,87 @@
+site_name: Библиотека богослужебных нот # Название сайта
+site_description:  # Описание сайта, добавляется в meta-теги
+theme: # Тема сайта, информация о ее параметрах
+  name: material # Название темы
+  breadcrumbs:
+       show: true
+  #custom_dir: custom_templates
+  logo: images/logo.svg # Ссылка на логотип сайта
+  font:
+    text: Arial # Шрифт текста
+    code: Roboto Mono # Шрифт для текста кода
+  features:
+    #- navigation.sections
+    - navigation.path # Хлебные крошки
+    - navigation.indexes # Позволяет создавать корневые страницы разделов меню. Корневая страница должна лежать в папке раздела и называться index.md. Пример использования корневых страниц приведен ниже в настройках nav
+    - navigation.tabs # Верхнее меню
+    - navigation.tabs.sticky # Фиксация верхнего меню
+    #- Navigation sections # Настройка спойлеров в левом меню
+    #- navigation.expand # Разворачивает спойлеры в левом меню по умолчанию
+    - toc.integrate # Фиксирует оглавление страницы в левом меню
+    - navigation.instant # Функция быстрой загрузки страниц
+    - navigation.top # Добавляет кнопку «к началу» для быстрой обратной прокрутки страницы
+    - search.suggest # Подсказки при вводе поискового запроса
+    - search.highlight # Подсветка результатов поиска в тексте страницы
+    - content.code.copy # Кнопка копирования в блоке кода
+
+  language: ru # Язык
+  palette: # Настройки тем
+    - scheme: tech
+#      toggle:
+#        icon: material/weather-sunny # Иконка для активации светлой темы
+#        name: Выключить солнышко # Всплывающий текст-подсказка
+    # Настройки светлой темы
+#    - scheme: default 
+#      toggle:
+#        icon: material/weather-sunny # Иконка для активации светлой темы
+#        name: Выключить солнышко # Всплывающий текст-подсказка
+#      primary: custom # Основной цвет
+#      accent: blue # Акцентный цвет
+    # Настройки тёмной темы
+#    - scheme: slate
+#      toggle:
+#        icon: material/weather-night
+#        name: Позвать солнышко
+ #     primary: custom
+#      accent: blue
+
+nav: # Структура сайта
+    - Главная: index.md
+    - Мужской хор: 
+      - male-choir.md
+    - Смешанный хор:
+      - mixed-choir.md
+    - Трио, дуэты: trio.md
+    - Монодия: solo.md
+
+extra:
+  social: # Ссылки на соц.сети
+    - icon: fontawesome/brands/github-alt # Иконка гитхаба
+      link: https://github.com/{your_account} # Ссылка на гитхаб
+  navbar:
+    - html: '<a href="https://example.com"><img src="images/banner.jpg" alt="Banner" style="width:50%;" /></a>'
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions: # Расширения markdown
+  - admonition # Поддержка информационных панелей (сообщений типа «Внимание», «Совет», «Примечание», etc.)
+  - footnotes # Поддержка встроенных сносок на страницах
+  - attr_list # Использование html-атрибутов и CSS в элементах markdown
+  - md_in_html # Поддержка markdown внутри html
+  - def_list # Поддержка списков определений
+  - pymdownx.tabbed # Использование вкладок (табов)
+  - pymdownx.details # Использование спойлеров (катов)
+  - pymdownx.highlight: # Подсветка синтаксиса в блоках кода
+      anchor_linenums: true
+  - pymdownx.superfences # Поддержка вложенных блоков кода
+  - pymdownx.snippets # Использование заимствованного контента
+  - pymdownx.emoji: # Иконки и эмодзи
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+copyright: |
+  &copy; 2024 NOVILLERO
+
+
+
