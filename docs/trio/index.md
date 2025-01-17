@@ -6,19 +6,19 @@
 
     ---
 
-    ![](images/trio/sugekttrio.png)
+    ![](../images/trio/sugekttrio.png)
     
     **Состав хора**: мужское трио (можно исполнять женским трио)
     
     **Тональность**: g-moll
 
-    [Скачать ноты](scores/trio/ектения_сугубая_трио_гафаров.pdf){target=_blank}
+    [Скачать ноты](../scores/trio/ектения_сугубая_трио_гафаров.pdf){target=_blank}
 
 -   ### Чашу спасения
 
     ---
 
-    ![](images/trio/prich.png)
+    ![](../images/trio/prich.png)
     
     **Состав хора**: смешанное трио (сопрано, альт, баритон)
     
@@ -26,42 +26,42 @@
 
     **Комментарий**: причастный стих в среду и Богородичные праздники
 
-    [Скачать ноты](scores/trio/чашу_спасения_гафаров.pdf){target=_blank}
+    [Скачать ноты](../scores/trio/чашу_спасения_гафаров.pdf){target=_blank}
 
 -   ### О Тебе радуется
 
     ---
 
-    ![](images/trio/otebe.png)
+    ![](../images/trio/otebe.png)
     
     **Состав хора**: дуэт
     
     **Тональность**: Bb-dur
 
-    [Скачать ноты](scores/trio/о_тебе_радуется_гафаров.pdf){target=_blank}
+    [Скачать ноты](../scores/trio/о_тебе_радуется_гафаров.pdf){target=_blank}
 
 -   ### Эксапостиларий Пасхи
 
     ---
 
-    ![](images/trio/eks.png)
+    ![](../images/trio/eks.png)
     
     **Состав хора**: дуэт
     
     **Тональность**: a-moll
 
-    [Скачать ноты](scores/trio/эксапостиларий_пасхи_гафаров.pdf){target=_blank}
+    [Скачать ноты](../scores/trio/эксапостиларий_пасхи_гафаров.pdf){target=_blank}
 
 -   ### Задостойник Вознесения Господня
 
     ---
 
-    ![](images/trio/zadosvozn.png)
+    ![](../images/trio/zadosvozn.png)
     
     **Состав хора**: дуэт
     
     **Тональность**: g-moll
 
-    [Скачать ноты](scores/trio/задостойник_вознесения_гафаров.pdf){target=_blank}
+    [Скачать ноты](../scores/trio/задостойник_вознесения_гафаров.pdf){target=_blank}
 
 </div>

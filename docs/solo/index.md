@@ -6,20 +6,20 @@
 
     ---
 
-    ![](images/solo/ant.png)
+    ![](../images/solo/ant.png)
     
     **Тональность**: g-moll
 
-    [Скачать ноты](scores/solo/изобразительные_антифоны_гафаров.pdf){target=_blank}
+    [Скачать ноты](../scores/solo/изобразительные_антифоны_гафаров.pdf){target=_blank}
 
 -   ### Трисвятое
 
     ---
 
-    ![](images/solo/trisv.png)
+    ![](../images/solo/trisv.png)
     
     **Тональность**: F-dur
 
-    [Скачать ноты](scores/solo/трисвятое_гафаров.pdf){target=_blank}
+    [Скачать ноты](../scores/solo/трисвятое_гафаров.pdf){target=_blank}
 
 </div>

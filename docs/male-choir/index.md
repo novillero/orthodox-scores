@@ -8,7 +8,7 @@
 
     ---
 
-    ![](images/male/priidm.png)
+    ![](../images/male/priidm.png)
 
     **Состав хора**: четырёхголосие
     
@@ -16,37 +16,37 @@
 
     **Комментарий**: Входный стих
 
-    [Скачать ноты](scores/male/приидите_поклонимся_гафаров.pdf){target=_blank}
+    [Скачать ноты](../scores/male/приидите_поклонимся_гафаров.pdf){target=_blank}
 
 -   ### Отца и Сына
 
     ---
 
-    ![](images/male/otzam.png)
+    ![](../images/male/otzam.png)
 
     **Состав хора**: четырёхголосие
     
     **Тональность**: c-moll / Bb-dur
 
-    [Скачать ноты](scores/male/отца_и_сына_гафаров.pdf){target=_blank}
+    [Скачать ноты](../scores/male/отца_и_сына_гафаров.pdf){target=_blank}
 
 -   ### Достойно есть
 
     ---
 
-    ![](images/male/dostestm.png)
+    ![](../images/male/dostestm.png)
 
     **Состав хора**: четырёхголосие
     
     **Тональность**: Bb-dur
 
-    [Скачать ноты](scores/male/достойно_есть_муж_гафаров.pdf){target=_blank}
+    [Скачать ноты](../scores/male/достойно_есть_муж_гафаров.pdf){target=_blank}
 
 -   ### Един Свят
 
     ---
 
-    ![](images/male/edinm.png)
+    ![](../images/male/edinm.png)
 
     **Состав хора**: четырёхголосие
     
@@ -54,13 +54,13 @@
 
     **Комментарий**: гармонизация распева
 
-    [Скачать ноты](scores/male/един_свят_гафаров.pdf){target=_blank}
+    [Скачать ноты](../scores/male/един_свят_гафаров.pdf){target=_blank}
 
 -   ### Радуйтеся праведнии
 
     ---
 
-    ![](images/male/radum.png)
+    ![](../images/male/radum.png)
 
     **Состав хора**: четырёхголосие
     
@@ -68,7 +68,7 @@
 
     **Комментарий**: Причастный стих
 
-    [Скачать ноты](scores/male/радуйтеся_праведнии_гафаров.pdf){target=_blank}
+    [Скачать ноты](../scores/male/радуйтеся_праведнии_гафаров.pdf){target=_blank}
 
 </div>
 
@@ -80,7 +80,7 @@
 
     ---
 
-    ![](images/male/troppashm.png)
+    ![](../images/male/troppashm.png)
 
     **Праздник**: Пасха
     
@@ -90,22 +90,22 @@
 
     **Комментарий**: Гармонизация знаменного распева
 
-    [Скачать ноты](scores/male/тропарь_пасхи_гафаров.pdf){target=_blank}
+    [Скачать ноты](../scores/male/тропарь_пасхи_гафаров.pdf){target=_blank}
 
 -   ### Ирмосы первого канона Троицы
 
     ---
 
-    ![](images/male/edinm.png)
+    ![](../images/male/irmostroizm.png)
 
     **Праздник**: Троица
     
     **Состав хора**: четырёхголосие
     
-    **Тональность**: c-moll
+    **Тональность**: g-moll
 
     **Комментарий**: Гармонизация знаменного распева
 
-    [Скачать ноты](scores/male/1_канон_троицы_гафаров.pdf){target=_blank}
+    [Скачать ноты](../scores/male/1_канон_троицы_гафаров.pdf){target=_blank}
 
 </div>

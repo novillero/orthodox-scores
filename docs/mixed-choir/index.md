@@ -8,7 +8,7 @@
 
     ---
 
-    ![](images/mixed/no.png)
+    ![](../images/mixed/no.png)
 
     **Состав хора**: четырёхголосие
     
@@ -16,13 +16,13 @@
 
     **Служба**: вечерня
 
-    [Скачать ноты](scores/mixed/ныне_отпущаеши_гафаров.pdf){target=_blank}
+    [Скачать ноты](../scores/mixed/ныне_отпущаеши_гафаров.pdf){target=_blank}
 
 -   ### Преблагословенна еси
 
     ---
 
-    ![](images/mixed/preblag.png)
+    ![](../images/mixed/preblag.png)
 
     **Состав хора**: четырёхголосие
     
@@ -30,13 +30,13 @@
 
     **Служба**: утреня
 
-    [Скачать ноты](scores/mixed/преблагословенна_еси_гафаров.pdf){target=_blank}
+    [Скачать ноты](../scores/mixed/преблагословенна_еси_гафаров.pdf){target=_blank}
 
 -   ### Окончание утрени
 
     ---
 
-    ![](images/mixed/utr.png)
+    ![](../images/mixed/utr.png)
 
     **Состав хора**: четырёхголосие
     
@@ -46,7 +46,7 @@
 
     **Комментарий**: просительная ектения, утверди, Боже, Честнейшую, многолетие
 
-    [Скачать ноты](scores/mixed/окончание_утрени_гафаров.pdf){target=_blank}
+    [Скачать ноты](../scores/mixed/окончание_утрени_гафаров.pdf){target=_blank}
 
 </div>
 
@@ -58,7 +58,7 @@
 
     ---
 
-    ![](images/mixed/blaz.png)
+    ![](../images/mixed/blaz.png)
 
     **Состав хора**: четырёхголосие
     
@@ -66,13 +66,13 @@
 
     **Комментарий**: третий изобразительный антифон
 
-    [Скачать ноты](scores/mixed/во_царствии_твоем_гафаров.pdf){target=_blank}
+    [Скачать ноты](../scores/mixed/во_царствии_твоем_гафаров.pdf){target=_blank}
 
 -   ### Приидите, поклонимся
 
     ---
 
-    ![](images/mixed/prrid.png)
+    ![](../images/mixed/prrid.png)
 
     **Состав хора**: четырёхголосие
     
@@ -80,55 +80,55 @@
 
     **Комментарий**: Входный стих
 
-    [Скачать ноты](scores/mixed/приидите_гафаров.pdf){target=_blank}
+    [Скачать ноты](../scores/mixed/приидите_гафаров.pdf){target=_blank}
 
 -   ### Трисвятое кегостровское
 
     ---
 
-    ![](images/mixed/trisv.png)
+    ![](../images/mixed/trisv.png)
 
     **Состав хора**: четырёхголосие
     
     **Тональность**: F-dur
 
-    [Скачать ноты](scores/mixed/трисвятое_кегостровское_гафаров.pdf){target=_blank}
+    [Скачать ноты](../scores/mixed/трисвятое_кегостровское_гафаров.pdf){target=_blank}
 
 -   ### Елицы во Христа
 
     ---
 
-    ![](images/mixed/eliz.png)
+    ![](../images/mixed/eliz.png)
 
     **Состав хора**: шестиголосие
     
     **Тональность**: G-dur
 
-    [Скачать ноты](scores/mixed/елицы_гафаров.pdf){target=_blank}
+    [Скачать ноты](../scores/mixed/елицы_гафаров.pdf){target=_blank}
 
 -   ### Милость мира
 
     ---
 
-    ![](images/mixed/mil.png)
+    ![](../images/mixed/mil.png)
 
     **Состав хора**: шестиголосие
     
     **Тональность**: e-moll
 
-    [Скачать ноты](scores/mixed/милость_мира_гафаров.pdf){target=_blank}
+    [Скачать ноты](../scores/mixed/милость_мира_гафаров.pdf){target=_blank}
 
 -   ### Достойно есть
 
     ---
 
-    ![](images/mixed/dost.png)
+    ![](../images/mixed/dost.png)
 
     **Состав хора**: четырехголосие
     
     **Тональность**: F-dur
 
-    [Скачать ноты](scores/mixed/достойно_есть_гафаров.pdf){target=_blank}
+    [Скачать ноты](../scores/mixed/достойно_есть_гафаров.pdf){target=_blank}
 
 </div>
 
@@ -140,7 +140,7 @@
 
     ---
 
-    ![](images/mixed/bogov.png)
+    ![](../images/mixed/bogov.png)
 
     **Состав хора**: четырёхголосие
     
@@ -148,13 +148,13 @@
 
     **Глас**: 4 глас
 
-    [Скачать ноты](scores/mixed/прокимен_богоявления_гафаров.pdf){target=_blank}
+    [Скачать ноты](../scores/mixed/прокимен_богоявления_гафаров.pdf){target=_blank}
 
 -   ### Прокимен Благовещения
 
     ---
 
-    ![](images/mixed/blag.png)
+    ![](../images/mixed/blag.png)
 
     **Состав хора**: четырёхголосие
     
@@ -162,13 +162,13 @@
 
     **Глас**: 4 глас
 
-    [Скачать ноты](scores/mixed/прокимен_благовещения_гафаров.pdf){target=_blank}
+    [Скачать ноты](../scores/mixed/прокимен_благовещения_гафаров.pdf){target=_blank}
 
 -   ### Прокимен Святым («Честна пред Господем»)
 
     ---
 
-    ![](images/mixed/bogov.png)
+    ![](../images/mixed/bogov.png)
 
     **Состав хора**: четырёхголосие
     
@@ -176,7 +176,7 @@
 
     **Глас**: 7 глас
 
-    [Скачать ноты](scores/mixed/прокимен_святым_гафаров.pdf){target=_blank}
+    [Скачать ноты](../scores/mixed/прокимен_святым_гафаров.pdf){target=_blank}
 
 </div>
 
@@ -188,25 +188,25 @@
 
     ---
 
-    ![](images/mixed/velekt.png)
+    ![](../images/mixed/velekt.png)
     
     **Состав хора**: четырёхголосие
     
     **Тональность**: g-moll
 
-    [Скачать ноты](scores/mixed/великая_ектения_гафаров.pdf){target=_blank}
+    [Скачать ноты](../scores/mixed/великая_ектения_гафаров.pdf){target=_blank}
 
 -   ### Сугубая ектения Кегостровская
 
     ---
 
-    ![](images/mixed/sugekt.png)
+    ![](../images/mixed/sugekt.png)
     
     **Состав хора**: четырёхголосие
     
     **Тональность**: a-moll
 
-    [Скачать ноты](scores/mixed/сугубая_ектения_кегостровская_гафаров.pdf){target=_blank}
+    [Скачать ноты](../scores/mixed/сугубая_ектения_кегостровская_гафаров.pdf){target=_blank}
 
 </div>
 
@@ -218,7 +218,7 @@
 
     ---
 
-    ![](images/mixed/roztrop.png)
+    ![](../images/mixed/roztrop.png)
 
     **Праздник**: Рождество Христово
     
@@ -226,13 +226,13 @@
     
     **Тональность**: Es-dur
 
-    [Скачать ноты](scores/mixed/тропарь_рождества_христова_гафаров.pdf){target=_blank}
+    [Скачать ноты](../scores/mixed/тропарь_рождества_христова_гафаров.pdf){target=_blank}
 
 -   ### Величание на Рождество Христово
 
     ---
 
-    ![](images/mixed/rozvel.png)
+    ![](../images/mixed/rozvel.png)
 
     **Праздник**: Рождество Христово
     
@@ -242,7 +242,7 @@
 
     **Комментарий**: Гармонизация знаменного распева
 
-    [Скачать ноты](scores/mixed/величание_рождество_христово_гафаров.pdf){target=_blank}
+    [Скачать ноты](../scores/mixed/величание_рождество_христово_гафаров.pdf){target=_blank}
 
 </div>
 
@@ -254,7 +254,7 @@
 
     ---
 
-    ![](images/mixed/vech.png)
+    ![](../images/mixed/vech.png)
 
     **Треба**: Панихида, Отпевание
     
@@ -264,6 +264,6 @@
 
     **Комментарий**: Гармонизация знаменного распева
 
-    [Скачать ноты](scores/mixed/вечная_память_гафаров.pdf){target=_blank}
+    [Скачать ноты](../scores/mixed/вечная_память_гафаров.pdf){target=_blank}
 
 </div>
