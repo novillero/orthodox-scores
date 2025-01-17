@@ -52,13 +52,6 @@ nav: # Структура сайта
     - Трио, дуэты: trio/index.md
     - Монодия: solo/index.md
 
-extra:
-  social: # Ссылки на соц.сети
-    - icon: fontawesome/brands/github-alt # Иконка гитхаба
-      link: https://github.com/{your_account} # Ссылка на гитхаб
-  navbar:
-    - html: '<a href="https://example.com"><img src="images/banner.jpg" alt="Banner" style="width:50%;" /></a>'
-
 extra_css:
   - stylesheets/extra.css
 
