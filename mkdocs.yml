@@ -6,6 +6,7 @@ theme: # Тема сайта, информация о ее параметрах
        show: true
   #custom_dir: custom_templates
   logo: images/logo.svg # Ссылка на логотип сайта
+  favicon: images/favicon.png
   font:
     text: Arial # Шрифт текста
     code: Roboto Mono # Шрифт для текста кода

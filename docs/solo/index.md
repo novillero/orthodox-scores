@@ -1,3 +1,8 @@
+---
+title: сочинения для одного голоса
+description: Богослужебные одноголосные произведения для исполнения на клиросе
+---
+
 # Одноголосие
 
 <div class="grid cards" style="display: grid; grid-template-columns: 1fr; gap: 20px;" markdown>
