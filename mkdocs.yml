@@ -73,7 +73,7 @@ markdown_extensions: # Расширения markdown
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 copyright: |
-  &copy; 2024 NOVILLERO
+  &copy; 2025 Антон Гафаров
 
 
 
