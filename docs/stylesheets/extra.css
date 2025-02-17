@@ -1,15 +1,16 @@
 :root {
-  --md-primary-fg-color:        #75a1ff;
-  --md-primary-fg-color--light: #75a1ff;
-  --md-primary-fg-color--dark:  #75a1ff;
+  --md-primary-fg-color:        #113161;
+  --md-primary-fg-color--light: #113161;
+  --md-primary-fg-color--dark:  #113161;
 }
 [data-md-color-scheme="slate"] {
   --md-hue: 210; 
 }
 [data-md-color-scheme="tech"] {
-  --md-primary-fg-color:        #75a1ff;
-  --md-primary-fg-color--light: #75a1ff;
-  --md-primary-fg-color--dark:  #75a1ff;
+  --md-primary-fg-color:        #113161;
+  --md-accent-fg-color: #1565C0;
+  --md-typeset-a-color: #1565C0;
+  --md-default-bg-color: #ffffff;
 }
 .md-content h1 {
     font-family: 'Tahoma, arial';
