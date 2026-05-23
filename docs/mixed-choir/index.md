@@ -9,7 +9,21 @@ description: Богослужебные произведения для смеш
 
 <div class="grid cards" style="display: grid; grid-template-columns: 1fr; gap: 20px;" markdown>
 
--   ### Ныне отпущаеши
+-   ### Блажен муж
+
+    ---
+
+    ![](../images/mixed/blazh.png)
+
+    **Состав хора**: четырёхголосие
+    
+    **Тональность**: e-moll 
+
+    **Служба**: утреня
+
+    [Скачать ноты](../scores/mixed/блажен_муж_гафаров.pdf){target=_blank}
+
+<!--   ### Ныне отпущаеши
 
     ---
 
@@ -21,13 +35,31 @@ description: Богослужебные произведения для смеш
 
     **Служба**: вечерня
 
-    [Скачать ноты](../scores/mixed/ныне_отпущаеши_гафаров.pdf){target=_blank}
+    [Скачать ноты](../scores/mixed/ныне_отпущаеши_гафаров.pdf){target=_blank}-->
+
+-   ### Степенна 8 глас
+
+    ---
+
+    ![](../images/mixed/step8.png)
+
+    **Состав хора**: четырёхголосие
+    
+    **Тональность**: G-dur
+
+    **Служба**: утреня
+
+    [Скачать ноты](../scores/mixed/степенна_8_глас_гафаров_а.pdf){target=_blank}
 
 -   ### Преблагословенна еси
 
     ---
 
     ![](../images/mixed/preblag.png)
+
+    ??? quote "Смотреть видео"
+
+        <iframe src="https://vkvideo.ru/video_ext.php?oid=-211812680&id=456239671&hash=7a0d44566523f834&hd=3" width="1280" height="720" allow="autoplay; encrypted-media; fullscreen; picture-in-picture; screen-wake-lock;" frameborder="0" allowfullscreen></iframe>    
 
     **Состав хора**: четырёхголосие
     
@@ -59,7 +91,7 @@ description: Богослужебные произведения для смеш
 
 <div class="grid cards" style="display: grid; grid-template-columns: 1fr; gap: 20px;" markdown>
 
--   ### Во царствии Твоем
+-   ### Во царствии Твоем {#blazhenni}
 
     ---
 
@@ -72,6 +104,8 @@ description: Богослужебные произведения для смеш
     **Комментарий**: третий изобразительный антифон
 
     [Скачать ноты](../scores/mixed/во_царствии_твоем_гафаров.pdf){target=_blank}
+
+    [Оригинал для мужского хора](../male-choir/index.md#blazhenni)
 
 -   ### Приидите, поклонимся
 
@@ -123,7 +157,7 @@ description: Богослужебные произведения для смеш
 
     [Скачать ноты](../scores/mixed/милость_мира_гафаров.pdf){target=_blank}
 
--   ### Достойно есть
+-   ### Достойно есть {#dostoino}
 
     ---
 
@@ -134,6 +168,22 @@ description: Богослужебные произведения для смеш
     **Тональность**: F-dur
 
     [Скачать ноты](../scores/mixed/достойно_есть_гафаров.pdf){target=_blank}
+
+    [Оригинал для мужского хора](../male-choir/index.md#dostoino)
+
+-   ### Причастен четверга и апостолов
+
+    ---
+
+    ![](../images/mixed/prich.png)
+
+    **Состав хора**: четырехголосие
+    
+    **Тональность**: G-dur / e-moll
+
+    **Комментарий**: Причастный стих
+
+    [Скачать ноты](../scores/mixed/причастен_четверга_гафаров.pdf){target=_blank}
 
 </div>
 
@@ -224,6 +274,10 @@ description: Богослужебные произведения для смеш
     ---
 
     ![](../images/mixed/roztrop.png)
+
+    ??? quote "Смотреть видео"
+
+        <iframe src="https://vkvideo.ru/video_ext.php?oid=-210257340&id=456239157&hash=d58bf1a8007d2486&hd=3" width="1280" height="720" allow="autoplay; encrypted-media; fullscreen; picture-in-picture; screen-wake-lock;" frameborder="0" allowfullscreen></iframe>
 
     **Праздник**: Рождество Христово
     

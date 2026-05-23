@@ -9,6 +9,22 @@ description: Богослужебные произведения для мужс
 
 <div class="grid cards" style="display: grid; grid-template-columns: 1fr; gap: 20px;" markdown>
 
+-   ### Во царствии Твоем {#blazhenni}
+
+    ---
+
+    ![](../images/male/blaz.png)
+
+    **Состав хора**: четырёхголосие
+    
+    **Тональность**: c-moll
+
+    **Комментарий**: третий изобразительный антифон
+
+    [Скачать ноты](../scores/male/во_царствии_твоем_муж_гафаров.pdf){target=_blank}
+
+    [Вариант для смешанного хора](../mixed-choir/index.md#blazhenni)
+
 -   ### Приидите, поклонимся
 
     ---
@@ -35,7 +51,7 @@ description: Богослужебные произведения для мужс
 
     [Скачать ноты](../scores/male/отца_и_сына_гафаров.pdf){target=_blank}
 
--   ### Достойно есть
+-   ### Достойно есть {#dostoino}
 
     ---
 
@@ -46,6 +62,8 @@ description: Богослужебные произведения для мужс
     **Тональность**: Bb-dur
 
     [Скачать ноты](../scores/male/достойно_есть_муж_гафаров.pdf){target=_blank}
+
+    [Вариант для смешанного хора](../mixed-choir/index.md#dostoino)
 
 -   ### Един Свят
 

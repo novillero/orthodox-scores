@@ -50,6 +50,9 @@ description: Богослужебные произведения для трио
     ---
 
     ![](../images/trio/eks.png)
+
+    ??? quote "Смотреть видео"
+        <iframe src="https://vk.com/video_ext.php?oid=173224471&id=456242606&autoplay=1" width="853" height="480" style="background-color: #000" allow="autoplay; encrypted-media; fullscreen; picture-in-picture; screen-wake-lock;" frameborder="0" allowfullscreen></iframe>
     
     **Состав хора**: дуэт
     

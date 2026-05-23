@@ -1,40 +1,32 @@
-:root {
-  --md-primary-fg-color:        #113161;
-  --md-primary-fg-color--light: #113161;
-  --md-primary-fg-color--dark:  #113161;
-}
-[data-md-color-scheme="slate"] {
-  --md-hue: 210; 
-}
 [data-md-color-scheme="tech"] {
-  --md-primary-fg-color:        #113161;
+  --md-primary-fg-color: #0B61A4;
   --md-accent-fg-color: #1565C0;
-  --md-typeset-a-color: #1565C0;
-  --md-default-bg-color: #ffffff;
+  --md-typeset-a-color: #0e70e0;
+
 }
 .md-content h1 {
-    font-family: 'Tahoma, arial';
+    font-family: 'Roboto';
     font-weight: 600;
     font-size: 30px;
     color: #4b5563;
 }
 
 .md-content h2 {
-    font-family: 'Tahoma, arial';
+    font-family: 'Roboto';
     font-weight: 600;
     font-size: 24px;
     color: #4b5563;
 }
 
 .md-content h3 {
-    font-family: 'Tahoma, arial';
+    font-family: 'Roboto';
     font-weight: 600;
     font-size: 21px;
     color: #4b5563;
 }
 
 .md-content h4 {
-    font-family: 'Tahoma, arial';
+    font-family: 'Roboto';
     font-weight: 600;
     font-size: 18px;
     color: #4b5563;
