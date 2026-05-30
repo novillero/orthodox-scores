@@ -1,0 +1,58 @@
+[data-md-color-scheme="tech"] {
+  --md-primary-fg-color: #0B61A4;
+  --md-accent-fg-color: #1565C0;
+  --md-typeset-a-color: #0e70e0;
+
+}
+.md-content h1 {
+    font-family: 'Roboto';
+    font-weight: 600;
+    font-size: 30px;
+    color: #4b5563;
+}
+
+.md-content h2 {
+    font-family: 'Roboto';
+    font-weight: 600;
+    font-size: 24px;
+    color: #4b5563;
+}
+
+.md-content h3 {
+    font-family: 'Roboto';
+    font-weight: 600;
+    font-size: 21px;
+    color: #4b5563;
+}
+
+.md-content h4 {
+    font-family: 'Roboto';
+    font-weight: 600;
+    font-size: 18px;
+    color: #4b5563;
+}
+
+body {
+    font-family: 'Arial';
+}
+
+p {
+    font-family: 'Arial';
+    font-size: 16px;
+}
+
+ul, ol {
+    font-family: 'Arial';
+    font-size: 16px;
+}
+
+.md-nav__link {
+    font-family: 'Arial', sans-serif;
+    font-size: 15px;
+    color: #4A4A4A;
+}
+
+
+.md-nav__link:hover {
+    color: #221c1a; 
+}
